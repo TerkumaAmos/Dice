@@ -7,7 +7,7 @@ void main() {
        backgroundColor: Colors.white,
        appBar: AppBar(
          title: Text("Dice"),
-         backgroundColor: Colors.white,
+         backgroundColor: Colors.black,
        ),
        body: DicePage(),
      ),
